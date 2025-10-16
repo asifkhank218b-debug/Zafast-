@@ -1,0 +1,5 @@
+{
+  "name": "Zafast AI Platform",
+  "description": "A proof-of-concept for a no-code/low-code AI SaaS platform designed to democratize AI model training, fine-tuning, and deployment with a focus on Indian infrastructure and datasets.",
+  "requestFramePermissions": []
+}
